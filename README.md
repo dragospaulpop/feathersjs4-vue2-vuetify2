@@ -50,7 +50,7 @@ I think we'll be safe to make an update to Vuetify 3 and Vue 3 with Vite in abou
 
 ## Vuetify
 Vuetify is a compoment framework/library for Vue.
-It's built around the principles of Google's Material Design and it helps us keep our hands cleen of css while building apps that look very good.
+It's built around the principles of Google's Material Design and it helps us keep our hands clean of css while building apps that look very good.
 An alternative to Vuetify is the Quasar Framework (built by a fellow Romanian).
 Vuetify docs [here](https://vuetifyjs.com/en/getting-started/installation/)
 
